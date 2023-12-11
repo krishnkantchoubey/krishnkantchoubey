@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blogify**
 
-- 🌱 I’m currently learning **ReactJs ,NodeJs ,Express.js ,MongoDb**
+- 🌱 I’m currently learning **Html,CSS,Java Script,Express.js ,MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://krishnkantchoubey.github.io/Portfolio-resume/](https://krishnkantchoubey.github.io/Portfolio-resume/)
 
